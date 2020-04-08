@@ -59,5 +59,7 @@ function main(){
 }
 
 document.addEventListener('DOMContentLoaded', function(){
-    main();
-})
+    document.addEventListener('load',function(){
+        main();
+    }, false);
+});

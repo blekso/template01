@@ -19,5 +19,6 @@
   "dependencies": {
     "gsap": "^3.2.6",
     "swup": "^2.0.9"
-  }
+  },
+  "devDependencies": {}
 }

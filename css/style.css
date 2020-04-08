@@ -59,6 +59,14 @@
     padding-left: 10px;
 }
 
+.myButton{
+    
+    border-radius: 40px;
+    border-width: 1vh;
+    border:solid;
+    color: white;
+}
+
 .profile
 {
     background: url(../img/background/pbg.png) no-repeat center center ; 
@@ -132,7 +140,6 @@
 
 .my-service-tabs:hover
 {
-    height: 440px;
     background-color: rgb(223, 223, 223);
 }
 
