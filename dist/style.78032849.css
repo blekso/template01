@@ -1,0 +1,272 @@
+
+.my-row
+{
+    height: 6vh;
+    background-color: #1f1f1f;
+}
+
+.my-header-info-text
+{
+    color:white;
+    margin: 0 auto;  
+}
+
+.my-navbar
+{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.my-logo{
+    width:20%;
+}
+
+.my-logos{
+    margin-right: 100px;
+}
+.links-style
+{
+    width:8%;
+    padding-left: 10px;
+}
+
+.navbar-style
+{
+    background-color:white;
+    height:8vh;
+}
+
+.profile
+{
+    background: url(/pbg.2ec664eb.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    height:75vh;
+}
+
+.profile-text 
+{   
+    color:white;
+}
+
+.profile-text h2
+{
+    margin-bottom: 0;
+    font-size: 32px;
+    font-family: NexaLight;
+    font-weight: 100;
+}
+
+.profile-text h3
+{
+    font-size: 90px;
+    font-family: NexaBold;
+    font-weight: 600;
+}
+
+.my-services
+{
+    height: 100vh;
+}
+
+.my-services-first
+{
+    margin-top: 130px;
+    margin-bottom: 80px;
+}
+
+.my-services-first h3
+{
+    font-size: 48px;
+    font-family: NexaBold;
+    font-weight: 600;
+}
+
+.my-services-first p
+{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.my-services-second
+{
+    margin-bottom: 100px;
+}
+
+.my-service-tabs
+{
+    height: 430px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(77, 77, 77);
+    border-width: 0.3px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 500ms;
+}
+
+.my-service-tabs:hover
+{
+    height: 440px;
+    background-color: rgb(223, 223, 223);
+}
+
+.my-service-icon
+{
+    padding: 40px;
+}
+
+.my-service-icon img
+{
+    width:70%;
+}
+
+.my-service-details h1
+{
+    font-size: 30px;
+    font-style: NexaBold;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.my-service-details p
+{
+    font-size: 20px;
+    font-style: NexaLight;
+    font-weight: 100;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.my-footer
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.about
+{
+    margin-top:150px;
+    margin-bottom:150px;
+    height: 520px;
+    background: url(/abg.bea02dcb.png) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.my-about-first
+{
+    color:white;
+    padding-top:80px;
+    padding-bottom:40px;
+}
+.my-about-first h3
+{
+font-size: 60px;
+    font-family: NexaBold;
+    font-weight: 600;
+}
+.my-about-second
+{
+    color:white;
+}
+
+.my-about-second p
+{
+   margin-left: 300px;
+   margin-right: 300px;
+   font-family: NexaLight;
+   font-size: 30px;
+   font-weight: 250px;
+}
+
+.showItem
+{
+    display:show;
+}
+
+.hideItem
+{
+    display:none;
+}
+
+.formException{
+    color: red;
+    font-size: 0.7em;
+}
+
+.myContactInfo{
+    font-size: 0.9em;
+}
+
+.myContactInfo h2{
+    font-size: 2.4em;
+    font-family: NexaLight;
+    font-weight: 100;
+}
+
+
+.myContactInfo img{
+    width:10%;
+}
+.myContact{
+    
+}
+
+.myContactTab
+{
+    overflow: hidden; 
+    width: 1000px;
+    border:solid;
+    border-width: 1px;
+    box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.2), 0 20px 20px 20px rgba(0, 0, 0, 0.19);
+}
+
+.myContactFirst{
+    background-color: #ffffff;
+    color:black;
+    height:100%;
+}
+
+.myContactFirst h2{
+    font-size: 1.8em;
+    font-family: NexaBold;
+    font-weight: 100;
+    color: rgb(44, 44, 44)
+}
+.myContactSecond{
+    background: url(/contacttabbg.3dbf9312.png) no-repeat center center;
+    color:white;
+    height:100%;
+}
+
+
+.myButton:hover{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.myButton 
+{
+    background-image: linear-gradient(to right, rgb(221, 145, 94) 0%, rgb(248, 149, 87) 51%, rgb(216, 88, 14) 100%)
+}
+
+.nekaj
+{
+    width:1000px;
+    height: 500px;
+}
+
+.myReturnToHome{
+
+}
+
+.myReturnToHome img{
+    width: 6%;
+}
+
+
+/*# sourceMappingURL=/style.78032849.css.map */

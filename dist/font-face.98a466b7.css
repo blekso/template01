@@ -1,0 +1,21 @@
+@font-face
+{
+    font-family: 'NexaLight';
+    src: url('/NexaLight.bae8d5a3.otf');
+    src: url('/NexaLight.5c9b1985.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face
+{
+    font-family: 'NexaBold';
+    src: url('/NexaBold.8b3d011b.otf');
+    src: url('/NexaBold.7b204278.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*# sourceMappingURL=/font-face.98a466b7.css.map */

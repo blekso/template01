@@ -17,3 +17,12 @@
     font-style: normal;
     font-weight: normal;
 }
+
+@font-face
+{
+    font-family: 'Quirlycues';
+    src: url('../fonts/Quirlycues.ttf') format('truetype');
+
+    font-style: normal;
+    font-weight: normal;
+}
