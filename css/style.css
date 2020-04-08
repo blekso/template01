@@ -59,12 +59,23 @@
     padding-left: 10px;
 }
 
+.myContactButton{
+    
+    border-radius: 40px;
+    border-width: 1vh;
+    border:solid;
+    color: white;
+}
+
 .myButton{
     
     border-radius: 40px;
     border-width: 1vh;
     border:solid;
     color: white;
+    margin-left: 30px;
+    width: 50%;
+    background-color: silver;
 }
 
 .profile
@@ -131,8 +142,8 @@
     height: 430px;
     margin: 10px;
     border-style: solid;
-    border-color: rgb(77, 77, 77);
-    border-width: 0.3px;
+    border-color: rgb(139, 139, 139);
+    border-width: 1px;
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     transition: 500ms;
