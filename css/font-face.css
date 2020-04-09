@@ -26,3 +26,21 @@
     font-style: normal;
     font-weight: normal;
 }
+
+@font-face
+{
+    font-family: 'TelegrafRegular';
+    src: url('../fonts/TelegrafRegular.otf');
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face
+{
+    font-family: 'TelegrafUltraLight';
+    src: url('../fonts/TelegrafUltraLight.otf');
+
+    font-style: normal;
+    font-weight: normal;
+}
