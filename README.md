@@ -1,2 +1,4 @@
-# template01
+# custom website template
+
+requires local live server to preview
  
